@@ -20,6 +20,7 @@ export default function RootLayout({
         <meta name="robots" content="index,follow" />
         <meta name="author" content="Yash" />
         <meta name="ptc" content="ptc,formular" />
+        <meta name="google-site-verification" content="vV70oydhHyHlTJtFSqdZiX6it9v1Nv_iaySUAbv0z6w" />
       </head>
       <body className={inter.className}>{children}</body>
     </html>
